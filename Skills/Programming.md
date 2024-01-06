@@ -6,7 +6,7 @@
   - variable 🖐️ used
   - constant 🖐️ used
   - scalar 🖐️ used
-  - literal
+  - literal 🖐️ used
   - expression 🖐️ used
   - heap
   - function 🖐️ used
@@ -34,14 +34,14 @@
   - argument🎓 known
   - parameter 🎓 known
   - pure function
-  - lambda expression
+  - lambda expression 🖐️ used
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion 🖐️ used
+  - callback 🖐️ used
   - listener 🖐️ used
   - compose
   - pipe
@@ -60,8 +60,8 @@
   - instance
   - object 🖐️ used
   - class 🖐️ used
-  - collection
-  - set
+  - collection 🎓 known
+  - set 🎓 known
   - hash table 👂 heard
   - linked list 🖐️ used
   - doubly list
@@ -72,7 +72,7 @@
   - deque
   - tree 👂 heard
   - graph 👂 heard
-  - iterator
+  - iterator 👂 heard
   - mutable state
   - immutable state
   - serialization 👂 heard
@@ -81,13 +81,13 @@
   - compiler 🎓 known
   - transpiler
   - linter
-  - polyfill
+  - polyfill 👂 heard
   - debugger
   - garbage collection 🎓 known
   - refactoring
   - code review 👂 heard
   - antipatterns
-  - paradigm
+  - paradigm 👂 heard
   - algorithm 🎓 known
   - magic numbers
   - hardcode
@@ -102,5 +102,5 @@
   - exception 👂 heard
   - return early 👂 heard
   - unittest
-  - git 👂 heard
+  - git 🖐️ used
   - github 🖐️ used
