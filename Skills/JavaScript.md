@@ -3,8 +3,8 @@
 - Language
   - Object 🖐️ used
   - this 🖐️ used
-  - arrow function
-  - async function
+  - arrow function 🖐️ used
+  - async function 👂 heard
   - call 🖐️ used
   - bind
   - apply
@@ -24,7 +24,7 @@
   - globalThis 👂 heard
   - window 👂 heard
   - getters and setters 🖐️ used
-  - __proto__
+  - __proto__ 👂 heard
   - prototype
   - equality operators 🖐️ used
   - logical operators 🖐️ used
@@ -34,19 +34,19 @@
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode 👂 heard
   - delete
   - in
   - super
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
   - if 🖐️ used
   - while 🖐️ used
   - do..while 🖐️ used
   - for 🖐️ used
-  - for..in
-  - for..of
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await
   - throw 🖐️ used
   - break 🖐️ used
@@ -57,33 +57,33 @@
   - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
-  - new Error
+  - new Error 👂 heard
   - with
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
   - return 🖐️ used
-  - default parameters
-  - functional object
+  - default parameters 👂 heard
+  - functional object 👂 heard
 - Data structures
   - Array 🙋 explained
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
+  - Map 👂 heard
+  - Set 👂 heard
+  - undefined 🎓 known
   - null 🎓 known
-  - Proxy
-  - weak collections
+  - Proxy 
+  - weak collections 👂 heard
   - timers
   - EventEmitter
   - RegExp
   - Date
-  - BigInt
+  - BigInt 👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8 👂 heard
+  - Node.js 🖐️ used
+  - npm 🖐️ used
   - prettier
-  - MDN
+  - MDN 🖐️ used
