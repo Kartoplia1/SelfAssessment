@@ -81,7 +81,7 @@
   - compiler 🎓 known
   - transpiler
   - linter
-  - polyfill 👂 heard
+  - polyfill 🎓 known
   - debugger
   - garbage collection 🎓 known
   - refactoring
