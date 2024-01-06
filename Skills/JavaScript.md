@@ -32,10 +32,10 @@
   - ternary operator 🖐️ used
   - void 🖐️ used
   - yield
-  - await
+  - await 👂 heard
   - template literal
-  - strict mode 👂 heard
-  - delete
+  - strict mode 🎓 known
+  - delete 👂 heard
   - in
   - super
   - Symbol 👂 heard
