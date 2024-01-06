@@ -22,11 +22,11 @@
   - Thread 🖐️ used
   - Process 👂 heard
 - Async contracts
-  - Callbacks
+  - Callbacks 🖐️ used
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Thenable 👂 heard
+  - Promise 👂 heard
+  - Async/await 👂 heard
   - Future
   - Deferred
   - Sync generator
@@ -41,9 +41,9 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
@@ -70,14 +70,14 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell 👂 heard
+  - Promise hell 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
-  - promisify
-  - callbackify
+  - promisify 👂 heard
+  - callbackify 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
