@@ -20,10 +20,10 @@
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
+  - global 👂 heard
+  - globalThis 👂 heard
+  - window 👂 heard
+  - getters and setters 🖐️ used
   - __proto__
   - prototype
   - equality operators 🖐️ used
