@@ -4,21 +4,21 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases 🎓 known
-  - Event loop: microtasks and macrotasks 🎓 known
-  - Garbage collection 🎓 known
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module 🎓 known
+  - node: module: 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules 🎓 known
-  - Dependencies: package.json and package lock 🎓 known
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) 🎓 known
-  - TCP/SSL 🎓 known
-  - UDP 🎓 known
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
-  - Websocket 🖐️ used
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing 👂 heard
-  - DoS 👂 heard
-  - DDoS 🎓 known
+  - Routing: 👂 heard
+  - DoS: 👂 heard
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection 👂 heard
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
