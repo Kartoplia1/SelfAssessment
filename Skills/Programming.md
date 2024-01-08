@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
+  - value: 🖐️ used
   - identifier
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
   - literal
-  - expression 🖐️ used
+  - expression: 🖐️ used
   - heap
-  - function 🖐️ used
-  - procedure 🖐️ used
-  - method 🖐️ used
-  - class 🖐️ used
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype
-  - event 🖐️ used
-  - type 🎓 known
-  - primitive types 🎓 known
+  - event: 🖐️ used
+  - type: 🎓 known
+  - primitive types: 🎓 known
   - reference types
-  - flag 🖐️ used
+  - flag: 🖐️ used
   - lexical scope
   - code block
   - conditions
-  - loops 🖐️ used
+  - loops: 🖐️ used
   - assignment
   - regular expression
-  - interface 🖐️ used
+  - interface: 🖐️ used
   - contract
   - module
   - call stack
 - Functions
-  - signature 🎓 known
-  - argument🎓 known
-  - parameter 🎓 known
+  - signature: 🎓 known
+  - argument: 🎓 known
+  - parameter: 🎓 known
   - pure function
   - lambda expression
   - side effects
@@ -40,9 +40,9 @@
   - partial application
   - curry
   - higher order
-  - recursion 🖐️ used
+  - recursion: 🖐️ used
   - callback
-  - listener 🖐️ used
+  - listener: 🖐️ used
   - compose
   - pipe
   - memoize
@@ -51,56 +51,56 @@
   - monad
   - monoid
   - generator
-  - coroutine 🖐️ used
+  - coroutine: 🖐️ used
 - Data structures
-  - array 🖐️ used
-  - structure 👂 heard
+  - array: 🖐️ used
+  - structure: 👂 heard
   - record
-  - enum 🖐️ used
+  - enum: 🖐️ used
   - instance
-  - object 🖐️ used
-  - class 🖐️ used
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
   - set
-  - hash table 👂 heard
-  - linked list 🖐️ used
+  - hash table: 👂 heard
+  - linked list: 🚀 constructed
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack 👂 heard
+  - stack: 👂 heard
   - deque
-  - tree 👂 heard
-  - graph 👂 heard
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator
   - mutable state
   - immutable state
-  - serialization 👂 heard
-  - string parsing 🖐️ used
+  - serialization: 👂 heard
+  - string parsing: 🖐️ used
 - Process & style
-  - compiler 🎓 known
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
   - debugger
-  - garbage collection 🎓 known
+  - garbage collection: 🎓 known
   - refactoring
-  - code review 👂 heard
+  - code review: 👂 heard
   - antipatterns
   - paradigm
-  - algorithm 🎓 known
+  - algorithm: 🎓 known
   - magic numbers
   - hardcode
-  - complexity 👂 heard
+  - complexity: 👂 heard
   - decomposition
-  - spaghetti 🎓 known
+  - spaghetti: 🎓 known
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code 👂 heard
-  - duplicate code 👂 heard
-  - exception 👂 heard
-  - return early 👂 heard
+  - unreachable code: 👂 heard
+  - duplicate code: 👂 heard
+  - exception: 👂 heard
+  - return early: 👂 heard
   - unittest
-  - git 👂 heard
-  - github 🖐️ used
+  - git: 👂 heard
+  - github: 🖐️ used
