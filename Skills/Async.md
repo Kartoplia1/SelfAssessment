@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
-  - try..catch 🖐️ used
+  - Event loop: 👂 heard
+  - try..catch: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,21 +19,21 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread 🖐️ used
-  - Process 👂 heard
+  - Thread: 🖐️ used
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks 🖐️ used
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable 👂 heard
-  - Promise 👂 heard
-  - Async/await 👂 heard
+  - Thenable: 👂 heard
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event 🖐️ used
-  - Coroutine 🖐️ used
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
   - Goroutine
   - Signal
   - Stream
@@ -41,9 +41,9 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify 👂 heard
-  - promisify 👂 heard
-  - asyncify 👂 heard
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
@@ -70,14 +70,14 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell 👂 heard
-  - Promise hell 👂 heard
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization
-  - promisify 👂 heard
-  - callbackify 👂 heard
+  - promisify: 👂 heard
+  - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
