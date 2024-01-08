@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
+  - Object: 🖐️ used
+  - this: 🖐️ used
   - arrow function
   - async function
-  - call 🖐️ used
+  - call: 🖐️ used
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof 🖐️ used
+  - typeof: 🖐️ used
   - destructuring
   - generator
   - iterator
@@ -23,14 +23,14 @@
   - global
   - globalThis
   - window
-  - getters and setters 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
-  - void 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
   - await
   - template literal
@@ -41,39 +41,39 @@
   - Symbol
   - Reflect
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
   - for..in
   - for..of
   - for await
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
   - export
   - label
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array 🙋 explained
+  - Array: 🙋 explained
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
   - undefined
-  - null 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
